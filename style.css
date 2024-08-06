@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+/* Navbar section */
+.title {
+    padding: 14px;
+    font-size: 40px;
+    background-color: #BF3131;
+    color: #F3EDC8;
+    text-align: center;
+}
+
+/* Footer section */
+.footer {
+    background-color: #BF3131;
+    color: #F3EDC8;
+    bottom: 0;
+    width: 100%;
+    font-weight: 400;
+    padding: 5px;
+    text-align: center;
+    font-size: 18px;
+    position: fixed;
+}
+
+.footer a {
+    margin-right: 10px;
+}
+
+.fa-brands {
+    padding-top: 10px;
+}
+
+.p_element {
+    font-size: 18px;
+}
