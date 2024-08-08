@@ -79,7 +79,22 @@ body {
     background-color: #ea9541;
 }
 
-/* Game section */
+.green-glow{
+    border: 4px solid #8cff66;
+    box-shadow: 0 0 10px #b3ff99;
+}
+
+.red-glow {
+    border: 4px solid #ff6666;
+    box-shadow: 0 0 10px #ff9999;
+}
+
+.gray-glow {
+    border: 4px solid #b3b3b3;
+    box-shadow: 0 0 10px #cccccc;
+}
+
+/* Score board section*/
 .score-board {
     margin: 20px auto;
     margin-bottom: 25px;
@@ -116,5 +131,6 @@ body {
 #comp-label{
     right: -30px;
 }
+
 
 
